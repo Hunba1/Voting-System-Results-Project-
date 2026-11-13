@@ -1,0 +1,1 @@
+A voting system that calculates election results using three different voting methods: Plurality, Borda Count, and Approval Voting. The program processes voter preferences, calculates scores, and determines winners using loops, dictionaries, and conditional statements, demonstrating algorithm development, data processing, and problem-solving skills.
